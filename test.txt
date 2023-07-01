@@ -1,2 +1,3 @@
 linia 1 testu
 linia 2 testu
+linia 3 testu
